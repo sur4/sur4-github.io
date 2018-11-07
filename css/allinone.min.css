@@ -204,9 +204,9 @@ h5,h6{font-size:1.4rem;font-weight:500;margin:1.5em 0 .5em}
 .post-full-content blockquote{margin:0 0 1.5em;padding:0 1.5em;border-left:3px solid #3eb0ef}
 .post-full-content blockquote p{font-size:inherit;font-style:italic;line-height:inherit;margin:0 0 1em;color:inherit}
 .post-full-content blockquote p:last-child{margin-bottom:0}
-/*.post-full-content code{font-size:.8em;font-weight:400!important;line-height:1em;padding:0 5px 2px;border-radius:3px;background:#000}
+.post-full-content code{font-size:.8em;font-weight:400!important;line-height:1em;padding:0 5px 2px;border-radius:3px;background:#000}
 .post-full-content pre{font-size:1.4rem;line-height:1.5em;overflow-x:auto;max-width:100%;margin:1.5em 0 3em;padding:20px;color:#000;/*border:1px solid #000;*/border-radius:5px;background:#0e0f11}2018/11/5/周一
-.post-full-content pre code{font-size:inherit;line-height:inherit;padding:0;background:0 0}*/
+.post-full-content pre code{font-size:inherit;line-height:inherit;padding:0;background:0 0}
 .post-full-content .fluid-width-video-wrapper{margin:1.5em 0 3em}
 .post-full-content hr{margin:4vw 0}
 .post-full-content hr:after{position:absolute;top:-15px;left:50%;display:block;width:1px;height:30px;margin-left:-10px;content:"";-webkit-transform:rotate(45deg);transform:rotate(45deg);background:#e3e9ed;-webkit-box-shadow:0 0 0 5px #fff;box-shadow:0 0 0 5px #fff}
