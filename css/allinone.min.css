@@ -202,7 +202,7 @@ h5,h6{font-size:1.4rem;font-weight:500;margin:1.5em 0 .5em}
 .post-full-content img+br+small{display:block;margin-top:-3em;margin-bottom:1.5em}
 .post-full-content iframe{margin:0 auto}
 .post-full-content blockquote{margin:0 0 1.5em;padding:0 1.5em;border-left:3px solid #3eb0ef}
-.post-full-content blockquote p{font-size:inherit;font-style:italic;line-height:inherit;margin:0 0 1em;color:inherit}
+.post-full-content blockquote p{font-size:inherit;font-style:normal;line-height:inherit;margin:0 0 1em;color:inherit}
 .post-full-content blockquote p:last-child{margin-bottom:0}
 .post-full-content code{font-size:.8em;font-weight:400!important;line-height:1em;padding:0 5px 2px;border-radius:3px;background:#000}
 .post-full-content pre{font-size:1.4rem;line-height:1.5em;overflow-x:auto;max-width:100%;margin:1.5em 0 3em;padding:20px;color:#000;/*border:1px solid #000;*/border-radius:5px;background:#0e0f11}2018/11/5/周一
@@ -461,7 +461,7 @@ h5,h6{font-size:1.4rem;font-weight:500;margin:1.5em 0 .5em}
 .markdown-body h1 code,.markdown-body h1 tt,.markdown-body h2 code,.markdown-body h2 tt,.markdown-body h3 code,.markdown-body h3 tt,.markdown-body h4 code,.markdown-body h4 tt,.markdown-body h5 code,.markdown-body h5 tt,.markdown-body h6 code,.markdown-body h6 tt{font-size:inherit}
 .markdown-body h1{font-size:1.9em;line-height:1.2;padding-bottom:.3em;border-bottom:1px solid #eaecef}
 .markdown-body h1 .anchor{line-height:1}
-.markdown-body h2{font-size:1.7em;line-height:1.225;padding-bottom:.3em;border-bottom:1px solid #eaecef}
+.markdown-body h2{font-size:1.7em;line-height:1.225;padding-left: 9px; border-left: 6px solid #ff7e79}
 .markdown-body h2 .anchor{line-height:1}
 .markdown-body h3{font-size:1.5em;line-height:1.43}
 .markdown-body h3 .anchor{line-height:1.2}
@@ -503,7 +503,7 @@ h5,h6{font-size:1.4rem;font-weight:500;margin:1.5em 0 .5em}
 .markdown-body span.float-left span{margin:13px 0 0}
 .markdown-body span.float-right{display:block;float:right;overflow:hidden;margin-left:13px}
 .markdown-body span.float-right>span{display:block;overflow:hidden;margin:13px auto 0;text-align:right}
-.markdown-body code,.markdown-body tt{font-size:85%;margin:0;padding:.2em .4em;border-radius:3px;background-color:rgba(27,31,35,.05)}
+.markdown-body code,.markdown-body tt{color:#c7254e;font-family:Menlo, Monaco, Consolas, "Courier New", monospace;font-size:85%;margin:0;padding:.2em .4em;border-radius:3px;background-color:#f9f2f4}
 .markdown-body code br,.markdown-body tt br{display:none}
 .markdown-body del code{text-decoration:inherit}
 .markdown-body pre{word-wrap:normal}
