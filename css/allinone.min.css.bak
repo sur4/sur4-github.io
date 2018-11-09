@@ -452,7 +452,7 @@ h5,h6{font-size:1.4rem;font-weight:500;margin:1.5em 0 .5em}
 .markdown-body>:first-child{margin-top:0!important}
 .markdown-body>:last-child{margin-bottom:0!important}
 .markdown-body a:not([href]){text-decoration:none;color:inherit}
-.markdown-body blockquote,.markdown-body dl,.markdown-body ol,.markdown-body p,.markdown-body pre,.markdown-body table,.markdown-body ul{margin-top:0;margin-bottom:16px}
+/*.markdown-body blockquote,*/.markdown-body dl,.markdown-body ol,.markdown-body p,.markdown-body pre,.markdown-body table,.markdown-body ul{margin-top:0;margin-bottom:16px}
 .markdown-body hr{height:.25em;margin:24px 0;padding:0;border:0;background-color:#e1e4e8}
 .markdown-body blockquote{/*padding:0 1em;*/color:#6a737d;border-left:.30em solid #dfe2e5}
 .markdown-body blockquote>:first-child{margin-top:0}
