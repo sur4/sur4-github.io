@@ -513,7 +513,7 @@ h5,h6{font-size:1.4rem;font-weight:500;margin:1.5em 0 .5em}
 .markdown-body .highlight tbody{display:block}
 .markdown-body .highlight td,.markdown-body .highlight tr{display:block;overflow:auto;width:100%;padding:0;border:none}
 .markdown-body .highlight pre{margin-bottom:0;word-break:normal}
-.markdown-body .highlight pre,.markdown-body pre{font-size:95%;line-height:1.45;overflow:auto;padding:7px 16px 9px;border-radius:3px;background-color:#F8F8F8}
+.markdown-body .highlight pre,.markdown-body pre{font-size:95%;line-height:1.3;overflow:auto;padding:7px 16px 9px;border-radius:3px;background-color:#F8F8F8}
 .markdown-body pre code,.markdown-body pre tt{line-height:inherit;display:inline;overflow:visible;max-width:auto;margin:0;padding:0;word-wrap:normal;border:0;background-color:transparent}
 .markdown-body .csv-data td,.markdown-body .csv-data th{font-size:12px;line-height:1;overflow:hidden;padding:5px;text-align:left;white-space:nowrap}
 .markdown-body .csv-data .blob-num{padding:10px 8px 9px;text-align:right;border:0;background:#fff}
